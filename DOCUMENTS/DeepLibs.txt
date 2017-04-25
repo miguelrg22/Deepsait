@@ -1,0 +1,3 @@
+Tensorflow + Spark: http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep
+Deep Water: https://www.h2o.ai/deep-water/
+Sparkling Water: https://www.h2o.ai/sparkling-water/
